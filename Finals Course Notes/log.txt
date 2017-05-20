@@ -1,0 +1,83 @@
+commit f5b59b811489b5333992c4ce54495295ea469550
+Author: ericoerese <2151828@slu.edu.ph>
+Date:   Sun Apr 23 21:05:24 2017 +0800
+
+    Midterm Course Notes Final
+    
+    Midterm Course Notes Final
+
+commit 2e1c77888447638f458bd8fc25eba86ca6cd4984
+Author: ericoerese <2151828@slu.edu.ph>
+Date:   Sun Apr 23 21:03:08 2017 +0800
+
+    CSS Notes
+    
+    CSS Notes
+
+commit 9b8efd203b99dbf738219e83cc9324fb12eaf92c
+Author: nitsudniar <dustinabaya@gmail.com>
+Date:   Sun Apr 23 18:31:17 2017 +0800
+
+    Update index.html
+    
+    added javascript topic section
+
+commit 1ce8e9c82f51e488a987ada86c4ef66b0caad41c
+Author: seanpogi123 <williamsahagun27@gmail.com>
+Date:   Sat Apr 22 23:20:40 2017 +0800
+
+    index file for midterms
+
+commit 66b9b1396371f6fb7d7412f0b30cb0e7309707ee
+Author: seanpogi123 <williamsahagun27@gmail.com>
+Date:   Sat Apr 22 19:42:50 2017 +0800
+
+    notes for HTML and XHTML
+
+commit 61be3b6b669973e3842c41c6af90580d4d4e453f
+Author: nitsudniar <dustinabaya@gmail.com>
+Date:   Sat Apr 22 19:19:23 2017 +0800
+
+    Add files via upload
+
+commit 149c96620c29a31ef2057fb1d3db44cb8a40e61c
+Author: nitsudniar <dustinabaya@gmail.com>
+Date:   Mon Mar 20 22:17:57 2017 +0800
+
+    Add files via upload
+
+commit a993afa30004ba6a63c630a682995f9c655d2243
+Author: nitsudniar <dustinabaya@gmail.com>
+Date:   Mon Mar 20 22:15:19 2017 +0800
+
+    Final WebTek Course Notes
+    
+    Final HTML and Ready for submission.
+
+commit 1520938d3a174b64575b16be41ea2fd0c9184086
+Author: Erico Erese <2151828@slu.edu.ph>
+Date:   Mon Mar 20 22:10:23 2017 +0800
+
+    Minor Course Site Changes
+    
+    Added Bootstrap collapse on the site
+
+commit c34df890f6af7e6252a9e72bb62d9c72cfe0e4d4
+Author: Sean Sahagun <williamsahagun27@gmail.com>
+Date:   Sun Mar 19 12:06:05 2017 +0800
+
+    Added a zip file containing the course project for prelims
+
+commit 507594d0513a503ea853a34b26cac80253657a54
+Author: Erico Erese <2151828@slu.edu.ph>
+Date:   Sat Mar 18 23:45:26 2017 +0800
+
+    WebTek Notes
+    
+    Part 1 and 2 of webtek prelim notes
+
+commit 993b190f5981c404f5dc7b79d5406fdef481848e
+Author: ericoerese <2151828@slu.edu.ph>
+Date:   Thu Mar 16 21:00:56 2017 +0800
+
+    Initial commit
